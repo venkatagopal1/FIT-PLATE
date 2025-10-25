@@ -86,12 +86,12 @@ Cloud-based data storage
 
 ## 👨‍💻 Author
 
-** SURYAVAMSI ABHISHEK**
+** MUDAVATHU GOPAL**
 B.tech
 IIITDM KANCHEEPURAM
 
-🔗 [LinkedIn](https://www.linkedin.com/in/suryavamsi-abhishek-b62585372/)  
-💻 [GitHub](https://github.com/Uzumakishannu)
+🔗 [LinkedIn](https://www.linkedin.com/in/venkata-gopal-naik-mudavathu-753305361/)  
+💻 [GitHub](https://github.com/venkatagopal1)
 
 
 ## 🔒 License
@@ -106,5 +106,5 @@ You may **not**:
 - Reuse or distribute the code for commercial purposes
 - Claim the project or its design as your own
 
-For collaboration or special permissions, please contact me via [LinkedIn](https://github.com/Uzumakishannu).
+For collaboration or special permissions, please contact me via [LinkedIn](https://www.linkedin.com/in/venkata-gopal-naik-mudavathu-753305361/).
 
